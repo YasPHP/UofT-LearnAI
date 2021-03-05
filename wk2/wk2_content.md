@@ -1,10 +1,10 @@
 
-# GOOGLE COLLAB RESEARCH NOTEBOOK
+# Google Collab Research Notebook
 
 - Lecture Slides: https://docs.google.com/presentation/d/19C_MgmC98hM054Y-TRroT6d3nCcFdWl7AjBtZcDR1DM/edit?usp=sharing
 - Lesson 2- Data Manipulation & Processing (with Pandas): https://colab.research.google.com/drive/1QZR_0FmIDxRPAqAey6OkqMTdq0DR8MLG?usp=sharing
 
-# ADDITIONAL RESOURCES
+# Additional Resources
 
 https://pythongeeks.net/python-tutorials/python-pandas-for-beginners-a-complete-guide/
 
