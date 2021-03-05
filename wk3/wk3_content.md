@@ -1,5 +1,5 @@
 
-# GOOGLE COLLAB RESEARCH NOTEBOOK
+# Google Collab Research Notebook
 
 Lesson 3: https://colab.research.google.com/drive/1oV58rSob8AlfEie2bmp7f6eqxJDfmafT?usp=sharing
 
@@ -7,7 +7,7 @@ Lesson 3: https://colab.research.google.com/drive/1oV58rSob8AlfEie2bmp7f6eqxJDfm
 
 Lesson:  https://docs.google.com/presentation/d/13IiHRXAhtI43z63XoD8R6gTzo80zGOJJc7CH3Ts7H_s/edit?usp=sharing
 
-# ADDITIONAL RESOURCES
+# Additional Resources
 - NumPy Cheatsheet: https://www.codecademy.com/learn/intro-statistics-numpy/modules/dspath-intro-numpy/cheatsheet
 - Python Numpy Tutorial (with Jupyter & Colab):
 https://cs231n.github.io/python-numpy-tutorial/#numpy
