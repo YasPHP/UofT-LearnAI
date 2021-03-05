@@ -11,5 +11,5 @@
 - [NumPy Tutorial: A Simple Example-Based Guide](https://stackabuse.com/numpy-tutorial-a-simple-example-based-guide/)
 - [PluralSight](https://www.pluralsight.com/guides/different-ways-create-numpy-arrays)
 - [Numpy | Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1) 
-- (Towards Data Science)[https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54] (BEST SOURCE)
+- [Towards Data Science](https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54) (BEST SOURCE)
 
