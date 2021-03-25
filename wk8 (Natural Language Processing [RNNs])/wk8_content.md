@@ -4,5 +4,3 @@
 
 # Additional Resources
 - [A simple introductory guide to NLP](https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32)
-
-
